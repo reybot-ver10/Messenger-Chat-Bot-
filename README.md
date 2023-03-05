@@ -10,16 +10,16 @@
     A simple Facebook Messenger Bot created by JOHN RÉ
     <br/>
     <br/>
-    <a href="https://github.com/reybot-ver10/Reybot/pulls">Report Bug</a>
+    <a href="https://github.com/reybot-ver10/Messenger-Chat-Bot/pulls">Report Bug</a>
     ·
-    <a href="https://github.com/reybot-ver10/Reybot/pulls">Request Feature</a>
+    <a href="https://github.com/reybot-ver10/Messenger-Chat-Bot/pulls">Request Feature</a>
     </p>
 </p>
 
 <p align="center">
 	<img alt="size" src="https://img.shields.io/static/v1?label=Size&message=3.1 mb&color=blue">
 	<img alt="code-version" src="https://img.shields.io/static/v1?label=Code Version &message=V1.4.39&color=Orange">
-	<a href="https://github.com/reybot-ver10/Reybot/commits"><img alt="commits" src="https://img.shields.io/static/v1?label=Commit &message=0/month&color=blue"></a>
+	<a href="https://github.com/reybot-ver10/Messenger-Chat-Bot/commits"><img alt="commits" src="https://img.shields.io/static/v1?label=Commit &message=0/month&color=blue"></a>
     
 </p>
 
@@ -196,4 +196,4 @@ This project is licensed under the GNU General Public License v3.0 License - see
 <!-- CONTACT -->
 ## Contact
 
-JOHN RÉ - [Facebook](https://www.facebook.com/profile.php?id=100081837309327) - [GitHub](https://github.com/reybot-ver10/Reybot) - rej418416@gmail.com
+JOHN RÉ - [Facebook](https://www.facebook.com/profile.php?id=100081837309327) - [GitHub](https://github.com/reybot-ver10/Messenger-Chat-Bot) - rej418416@gmail.com
