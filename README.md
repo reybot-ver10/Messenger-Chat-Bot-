@@ -1,6 +1,6 @@
 <br/>
 <p align="center">
-    <a href="https://github.com/reybot-ver10/Reybot">
+    <a href="https://github.com/reybot-ver10/Messenger-Chat-Bot-">
         <img src="https://imgur.com/a/1JMZeLB" alt="Rey Bot">
     </a>
 
